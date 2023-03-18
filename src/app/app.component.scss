@@ -64,7 +64,6 @@
         background-position: center;
         background-repeat: no-repeat;
         opacity: 30%;
-        opacity: 30%;
         height: 28px;
         margin: 12px 0;
     }
@@ -72,7 +71,6 @@
         background-image: url("../assets/imgs/youtube.svg");
         background-position: center;
         background-repeat: no-repeat;
-        opacity: 30%;
         opacity: 30%;
         height: 28px;
         margin: 12px 0;
@@ -174,14 +172,6 @@
     .loading.frontend:after{
         background: #FF5757;
         width: 30%;
-    }
-    .loading.devops:after{
-        background: #FFBD59;
-        width: 0%;
-    }
-    .loading.mobile:after{
-        background: #00FFE0;
-        width: 0%;
     }
 }
 
